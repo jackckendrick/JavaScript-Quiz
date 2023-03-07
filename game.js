@@ -19,7 +19,7 @@ let questions = [
         choice2: 'booleans',
         choice3: 'alerts',
         choice4: 'letters',
-        answer: 2,
+        answer: 3,
     },
     {
         question: 'The condition in an if / else statement is enclosed with ______.',
@@ -27,7 +27,7 @@ let questions = [
         choice2: 'curly brackets',
         choice3: 'parenthesis',
         choice4: 'square brackets',
-        answer: 1,
+        answer: 3,
     },
     {
         question: 'Arrays in JavaScript can be used to store ______.',
@@ -35,7 +35,7 @@ let questions = [
         choice2: 'other arrays',
         choice3: 'booleans',
         choice4: 'all of the above',
-        answer: 3,
+        answer: 4,
     },
     {
         question: 'String values must be enclosed within _____ when being assigned to variables.',
@@ -43,7 +43,7 @@ let questions = [
         choice2: 'curly brackets',
         choice3: 'quotes',
         choice4: 'parenthesis',
-        answer: 1,
+        answer: 3,
     }
 ]
 
